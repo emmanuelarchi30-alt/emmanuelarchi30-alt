@@ -1,3 +1,8 @@
+
+
+![snake](https://raw.githubusercontent.com/emmanuelarchi30-alt/emmanuelarchi30-alt/output/snake-dark.svg)
+
+
 ![Emmanuel Archibold](./assets/banner.svg)
 ## Hi there 👋
 
