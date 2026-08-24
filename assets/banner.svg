@@ -1,0 +1,34 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="218" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <text x="50" y="55" font-family="Consolas, monospace" font-size="13" letter-spacing="3" fill="#8b949e">
+    BACHILLER · TÉCNICO EN RRHH · DEVELOPER JR
+  </text>
+
+  <text x="50" y="115" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">
+    Emmanuel Archibold
+  </text>
+
+  <text x="50" y="160" font-family="Consolas, monospace" font-size="15" fill="#58a6ff">
+    Puerto Colombia, Atlántico · Colombia 🇨🇴
+  </text>
+
+  <line x1="50" y1="178" x2="330" y2="178" stroke="#30363d" stroke-width="1"/>
+
+  <g transform="translate(910,60)">
+    <path d="M0,-22 L5,-5 L22,0 L5,5 L0,22 L-5,5 L-22,0 L-5,-5 Z" fill="url(#glow)"/>
+    <path d="M28,-14 L30,-8 L36,-6 L30,-4 L28,2 L26,-4 L20,-6 L26,-8 Z" fill="url(#glow)" opacity="0.7"/>
+  </g>
+</svg>

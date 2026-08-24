@@ -1,3 +1,4 @@
+![Emmanuel Archibold](./assets/banner.svg)
 ## Hi there 👋
 
 <!--
