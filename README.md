@@ -5,18 +5,26 @@
 
 ![Emmanuel Archibold](./assets/banner.svg)
 ## Hi there 👋
+## Hola, soy Emmanuel Archibold -frontend - Developer 👋
 
-<!--
-**emmanuelarchi30-alt/emmanuelarchi30-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Auxiliar de RRHH → Developer Jr. · Puerto Colombia, Atlántico 🇨🇴
 
-Here are some ideas to get you started:
+Técnico en Recursos Naturales con experiencia en RRHH, ahora enfocado en programación. Busco oportunidades de trabajo híbrido.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[GitHub](https://github.com/emmanuelarchi30-alt) · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · [Email](mailto:TU-CORREO@gmail.com)
+
+---
+
+### Stack
+
+
+
+![Stack](https://skillicons.dev/icons?i=js,ts,java,python,sql,html,css&theme=dark)
+
+
+
+También: bilingüe español-inglés (B2) · certificación en IA (Gobernación del Atlántico)
+
+
+
 -->
