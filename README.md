@@ -33,7 +33,7 @@
 Bienvenido a mi perfil. Soy un desarrollador apasionado por crear experiencias web modernas, intuitivas y de alto rendimiento. Me encanta trabajar con tecnologías actuales y resolver problemas complejos con código limpio y elegante.
 
 ---
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 ## 🚀 Sobre mí
 
 - 💻 Especializado en **Frontend** con React y Vue.js
@@ -43,6 +43,8 @@ Bienvenido a mi perfil. Soy un desarrollador apasionado por crear experiencias w
 - 🌍 Basado en Barranquilla, Colombia
 
 ---
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 
+
 #
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
