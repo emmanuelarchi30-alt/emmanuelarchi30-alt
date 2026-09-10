@@ -26,21 +26,21 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-# Hola, soy Emmanuel Archibold 👋
+# Hello, I'M Emmanuel Archibold 👋
 
-**Desarrollador Full-Stack | Especialista en Frontend** 
+**Full-Stack Developer | Frontend Specialist**
 
-Bienvenido a mi perfil. Soy un desarrollador apasionado por crear experiencias web modernas, intuitivas y de alto rendimiento. Me encanta trabajar con tecnologías actuales y resolver problemas complejos con código limpio y elegante.
+Welcome to my profile. I'm a developer passionate about creating modern, intuitive, and high-performance web experiences. I love working with current technologies and solving complex problems with clean, elegant code.
 
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-## 🚀 Sobre mí
+## 🚀 About me
 
-- 💻 Especializado en **Frontend** con React y Vue.js
-- 🔧 Experiencia en desarrollo **Full-Stack**
-- 🎨 Diseño responsivo y UX enfocado
-- 📚 Siempre aprendiendo nuevas tecnologías
-- 🌍 Basado en Barranquilla, Colombia
+- 💻 Specialized in **Frontend** with React and Vue.js
+- 🔧 Experience in **Full-Stack** development
+- 🎨 Responsive design and UX focused
+- 📚 Always learning new technologies
+- 🌍 Based in Barranquilla, Colombia
 
 ---
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 
